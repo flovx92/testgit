@@ -21,7 +21,7 @@ _You **can** combine them_
    * Item 3a
    * Item 3b
 
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](http://images.google.fr/imgres?imgurl=https://assets-cdn.github.com/images/modules/logos_page/GitHub-Mark.png&imgrefurl=https://github.com/logos&h=560&w=560&tbnid=EjYxU3xL8GCuTM:&tbnh=120&tbnw=120&docid=H8p6HHzcTglWAM&client=safari&usg=__j63AF6S4ZcPYQDk4z7x5KOeJNlw=&sa=X&ved=0ahUKEwi_jYbitMHLAhXsCpoKHT3QD70Q9QEIIjAA)
 Format: ![Alt Text](url)
 
 http://github.com - automatic!
